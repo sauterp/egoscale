@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	v2 "github.com/exoscale/egoscale/v2/api"
+	v2 "github.com/sauterp/egoscale/v2/api"
 )
 
 const (

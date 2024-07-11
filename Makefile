@@ -28,7 +28,7 @@ go.mk:
 	git checkout --quiet ${GO_MK_REF}
 ## Project
 
-PACKAGE := github.com/exoscale/egoscale
+PACKAGE := github.com/sauterp/egoscale
 PROJECT_URL := https://$(PACKAGE)
 
 # Dependencies

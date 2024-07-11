@@ -1,7 +1,7 @@
 package v2
 
 import (
-	"github.com/exoscale/egoscale/v2/oapi"
+	"github.com/sauterp/egoscale/v2/oapi"
 )
 
 // IAMPolicy represents an IAM policy resource.

@@ -13,8 +13,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/exoscale/egoscale/v2/api"
-	"github.com/exoscale/egoscale/v2/oapi"
+	"github.com/sauterp/egoscale/v2/api"
+	"github.com/sauterp/egoscale/v2/oapi"
 )
 
 var testSeededRand = rand.New(rand.NewSource(time.Now().UnixNano()))

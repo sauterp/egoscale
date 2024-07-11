@@ -15,9 +15,9 @@ import (
 
 	"github.com/hashicorp/go-retryablehttp"
 
-	"github.com/exoscale/egoscale/v2/api"
-	"github.com/exoscale/egoscale/v2/oapi"
-	"github.com/exoscale/egoscale/version"
+	"github.com/sauterp/egoscale/v2/api"
+	"github.com/sauterp/egoscale/v2/oapi"
+	"github.com/sauterp/egoscale/version"
 )
 
 const (

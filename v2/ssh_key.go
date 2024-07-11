@@ -3,8 +3,8 @@ package v2
 import (
 	"context"
 
-	apiv2 "github.com/exoscale/egoscale/v2/api"
-	"github.com/exoscale/egoscale/v2/oapi"
+	apiv2 "github.com/sauterp/egoscale/v2/api"
+	"github.com/sauterp/egoscale/v2/oapi"
 )
 
 // SSHKey represents an SSH key.

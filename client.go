@@ -13,8 +13,8 @@ import (
 	"runtime"
 	"time"
 
-	v2 "github.com/exoscale/egoscale/v2"
-	"github.com/exoscale/egoscale/version"
+	v2 "github.com/sauterp/egoscale/v2"
+	"github.com/sauterp/egoscale/version"
 )
 
 const (

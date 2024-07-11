@@ -9,8 +9,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/exoscale/egoscale/v3/generator/helpers"
-	"github.com/exoscale/egoscale/v3/generator/schemas"
+	"github.com/sauterp/egoscale/v3/generator/helpers"
+	"github.com/sauterp/egoscale/v3/generator/schemas"
 	"github.com/pb33f/libopenapi"
 	"github.com/pb33f/libopenapi/datamodel/high/base"
 	v3 "github.com/pb33f/libopenapi/datamodel/high/v3"

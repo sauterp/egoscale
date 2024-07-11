@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/exoscale/egoscale/v3/credentials"
+	"github.com/sauterp/egoscale/v3/credentials"
 	"github.com/go-playground/validator/v10"
 )
 

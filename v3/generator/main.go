@@ -8,10 +8,10 @@ import (
 
 	"github.com/pb33f/libopenapi"
 
-	"github.com/exoscale/egoscale/v3/generator/client"
-	"github.com/exoscale/egoscale/v3/generator/helpers"
-	"github.com/exoscale/egoscale/v3/generator/operations"
-	"github.com/exoscale/egoscale/v3/generator/schemas"
+	"github.com/sauterp/egoscale/v3/generator/client"
+	"github.com/sauterp/egoscale/v3/generator/helpers"
+	"github.com/sauterp/egoscale/v3/generator/operations"
+	"github.com/sauterp/egoscale/v3/generator/schemas"
 )
 
 //go:generate go run main.go ./source.yaml ../ v3

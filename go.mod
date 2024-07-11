@@ -1,5 +1,5 @@
-// Deprecated: this version is no longer maintained, please use github.com/exoscale/egoscale/v3 instead
-module github.com/exoscale/egoscale
+// Deprecated: this version is no longer maintained, please use github.com/sauterp/egoscale/v3 instead
+module github.com/sauterp/egoscale
 
 require (
 	github.com/deepmap/oapi-codegen v1.9.1

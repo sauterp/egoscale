@@ -6,8 +6,8 @@ import (
 	"net"
 	"strings"
 
-	apiv2 "github.com/exoscale/egoscale/v2/api"
-	"github.com/exoscale/egoscale/v2/oapi"
+	apiv2 "github.com/sauterp/egoscale/v2/api"
+	"github.com/sauterp/egoscale/v2/oapi"
 )
 
 // SecurityGroupRule represents a Security Group rule.

@@ -6,7 +6,7 @@ Requests and Responses
 
 To build a request, construct the adequate struct. This library expects a pointer for efficiency reasons only. The response is a struct corresponding to the data at stake. E.g. DeployVirtualMachine gives a VirtualMachine, as a pointer as well to avoid big copies.
 
-Then everything within the struct is not a pointer. Find below some examples of how egoscale may be used. If anything feels odd or unclear, please let us know: https://github.com/exoscale/egoscale/issues
+Then everything within the struct is not a pointer. Find below some examples of how egoscale may be used. If anything feels odd or unclear, please let us know: https://github.com/sauterp/egoscale/issues
 
 	req := &egoscale.DeployVirtualMachine{
 		Size:              10,

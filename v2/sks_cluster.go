@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	apiv2 "github.com/exoscale/egoscale/v2/api"
-	"github.com/exoscale/egoscale/v2/oapi"
+	apiv2 "github.com/sauterp/egoscale/v2/api"
+	"github.com/sauterp/egoscale/v2/oapi"
 )
 
 // SKSClusterOIDCConfig represents an SKS cluster OpenID Connect configuration.

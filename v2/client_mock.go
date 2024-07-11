@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/mock"
 
-	"github.com/exoscale/egoscale/v2/oapi"
+	"github.com/sauterp/egoscale/v2/oapi"
 )
 
 type oapiClientMock struct {

@@ -1,4 +1,4 @@
-module github.com/exoscale/egoscale/v3
+module github.com/sauterp/egoscale/v3
 
 go 1.22
 
